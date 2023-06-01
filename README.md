@@ -15,7 +15,7 @@ This is a PowerFull Telegram File Rename and thumbnail & caption Changer Bot wit
 <details><summary>Deploy To Koyeb</summary>
 <p>
 <br>
-<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/oVo-HxBots/RENAME-PRO&branch=main&name=rename-pro&env[API_HASH]=1&env[API_ID]=1&env[BOT_TOKEN]=1&env[ADMIN]=1&env[DB_URL]=1&env[DB_NAME]=rename-pro&env[FORCE_SUB]=1&env[START_PIC]=https://telegra.ph/file/d4d3bc4272c732c1aba7f.jpg&run_command=python%20bot.py">
+<a href="https://app.koyeb.com/deploy?type=git&repository=https://github.com/NischayYadav615/RENAME-PRO&branch=main&name=rename-pro&env[API_HASH]=1&env[API_ID]=1&env[BOT_TOKEN]=1&env[ADMIN]=1&env[DB_URL]=1&env[DB_NAME]=rename-pro&env[FORCE_SUB]=1&env[START_PIC]=https://telegra.ph/file/d4d3bc4272c732c1aba7f.jpg&run_command=python%20bot.py">
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy">
 </a>
 </p>
